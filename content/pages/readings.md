@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of readings by week including links to lecture
+  summaries and online journal articles.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ READINGS
 
 Class introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summary_1)
+{{% resource_link 574d7d18-dffa-d923-700f-5088b0d48900 "See the Lecture Summary" "#Summary_1" %}}
 
 
 {{< tdclose >}}
@@ -54,7 +56,7 @@ Class introduction
 
 Development of immune cells
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summary_2)
+{{% resource_link 574d7d18-dffa-d923-700f-5088b0d48900 "See the Lecture Summary" "#Summary_2" %}}
 
 
 {{< tdclose >}}
@@ -78,7 +80,7 @@ Schulz, C., Gomez Perdiguero, E., Chorro, L., Szabo-Rogers, H., Cagnard, N., Kie
 
 DNA rearrangements in adaptive immune cells
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summary_3)
+{{% resource_link 574d7d18-dffa-d923-700f-5088b0d48900 "See the Lecture Summary" "#Summary_3" %}}
 
 
 {{< tdclose >}}
@@ -102,7 +104,7 @@ Jain, S., Ba, Z., Zhang, Y., Dai, H.Q., and Alt, F.W. (2018). [CTCF-binding elem
 
 T cells: Th2 and cytotoxic T cells
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summary_4)
+{{% resource_link 574d7d18-dffa-d923-700f-5088b0d48900 "See the Lecture Summary" "#Summary_4" %}}
 
 
 {{< tdclose >}}
@@ -126,7 +128,7 @@ Trautmann, L., Janbazian, L., Chomont, N., Said, E.A., Gimmig, S., Bessette, B.,
 
 Cell death and immune processes
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summary_5)
+{{% resource_link 574d7d18-dffa-d923-700f-5088b0d48900 "See the Lecture Summary" "#Summary_5" %}}
 
 
 {{< tdclose >}}
@@ -150,7 +152,7 @@ Kayagaki, N., Stowe, I.B., Lee, B.L., O'Rourke, K., Anderson, K., Warming, S., C
 
 Lymphocytes in disease
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summary_6)
+{{% resource_link 574d7d18-dffa-d923-700f-5088b0d48900 "See the Lecture Summary" "#Summary_6" %}}
 
 
 {{< tdclose >}}
@@ -174,7 +176,7 @@ Doitsh, G., Galloway, N.L., Geng, X., Yang, Z., Monroe, K.M., Zepeda, O., Hunt, 
 
 Th17 cells
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summary_7)
+{{% resource_link 574d7d18-dffa-d923-700f-5088b0d48900 "See the Lecture Summary" "#Summary_7" %}}
 
 
 {{< tdclose >}}
@@ -198,7 +200,7 @@ McAllister, F., Bailey, J.M., Alsina, J., Nirschl, C.J., Sharma, R., Fan, H., Ra
 
 T cells (adoptive immune transfer)
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summary_8)
+{{% resource_link 574d7d18-dffa-d923-700f-5088b0d48900 "See the Lecture Summary" "#Summary_8" %}}
 
 
 {{< tdclose >}}
@@ -222,7 +224,7 @@ Eyquem, J., Mansilla-Soto, J., Giavridis, T., van der Stegen, S.J., Hamieh, M., 
 
 Autoimmunity
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summary_9)
+{{% resource_link 574d7d18-dffa-d923-700f-5088b0d48900 "See the Lecture Summary" "#Summary_9" %}}
 
 
 {{< tdclose >}}
@@ -246,7 +248,7 @@ Wen, L., Ley, R.E., Volchkov, P.Y., Stranges, P.B., Avanesyan, L., Stonebraker, 
 
 Innate lymphoid cells (ILC)
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summary_10)
+{{% resource_link 574d7d18-dffa-d923-700f-5088b0d48900 "See the Lecture Summary" "#Summary_10" %}}
 
 
 {{< tdclose >}}
@@ -270,7 +272,7 @@ Sui, P., Wiesner, D.L., Xu, J., Zhang, Y., Lee, J., Van Dyken, S., Lashua, A., Y
 
 Macrophages
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summary_11)
+{{% resource_link 574d7d18-dffa-d923-700f-5088b0d48900 "See the Lecture Summary" "#Summary_11" %}}
 
 
 {{< tdclose >}}
@@ -294,7 +296,7 @@ Jaiswal, S., Jamieson, C.H., Pang, W.W., Park, C.Y., Chao, M.P., Majeti, R., Tra
 
 Trained immunity
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summary_12)
+{{% resource_link 574d7d18-dffa-d923-700f-5088b0d48900 "See the Lecture Summary" "#Summary_12" %}}
 
 
 {{< tdclose >}}
@@ -318,7 +320,7 @@ Kaufmann, E., Sanz, J., Dunn, J.L., Khan, N., Mendonca, L.E., Pacis, A., Tzelepi
 
 Emerging technologies in immunology
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summary_13)
+{{% resource_link 574d7d18-dffa-d923-700f-5088b0d48900 "See the Lecture Summary" "#Summary_13" %}}
 
 
 {{< tdclose >}}

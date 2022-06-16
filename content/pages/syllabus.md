@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes a course description, information on course format
+  and grading, and a calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,11 +18,11 @@ Prerequisites
 
 No previous immunology courses are required. Basic knowledge of molecular biology, cell biology and biochemistry will be helpful. Students are recommended to have taken at least one of the following courses: 
 
-[_7.03 Genetics_](/courses/7-03-genetics-fall-2004/)
+[_7.03 Genetics_](/courses/7-03-genetics-fall-2004)
 
-[_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007/)
+[_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007)
 
-[_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005/)
+[_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005)
 
 Prerequisites may be waived with permission by the instructor.
 
