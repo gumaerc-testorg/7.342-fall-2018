@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, summaries of each
+  lecture, and links to related materials.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Summaries
 uid: 574d7d18-dffa-d923-700f-5088b0d48900
 ---
