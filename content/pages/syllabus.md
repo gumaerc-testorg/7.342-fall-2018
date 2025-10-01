@@ -58,7 +58,7 @@ This half course (6 credits) is graded pass/fail. As the course is discussion-ba
 Field Trip
 ----------
 
-To complement the papers we read in the course, we will take a field trip to the pharmaceutical company [Merck](https://www.merck.com/research/index.html) on topics related to cellular immunity (such as immune checkpoint therapies). A lab tour and a career panel discussion will be included in the trip.
+To complement the papers we read in the course, we will take a field trip to the pharmaceutical company {{% resource_link "6c573853-018b-44fe-8e02-ec5af3cffbd5" "Merck" %}} on topics related to cellular immunity (such as immune checkpoint therapies). A lab tour and a career panel discussion will be included in the trip.
 
 Calendar
 --------
