@@ -37,7 +37,7 @@ Class introduction
 
 *   {{< anchor "Summary_1" >}}{{< /anchor >}}Introductions: instructor and students
 *   Overview of the syllabus and expectations
-*   Overview of primary research papers and how to find them (demo of literature search on [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/)).
+*   Overview of primary research papers and how to find them (demo of literature search on {{% resource_link "dbfb842f-3aa2-41c0-87ec-eafc017ca816" "PubMed" %}}).
 *   Introduction to cellular immunology: functions and cellular components of the immune system; development of immune cells during embryogenesis and postnatal development; overview of some commonly used methods in immunology: flow cytometry, immunofluorescence, immunoblotting, genetic approaches to generate engineered cells or animals, transplantation assays to reconstitute immune system (mostly in recipient mice).
 *   Introduction of papers to be discussed in week 2.
 
